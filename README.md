@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarosław</h1>
 <h3 align="center">a QA enginner AND beginner python enthusiast :)</h3>
 
-- 🌱 I’m currently learning **python, selenium, pytest**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **jaroslaw.serafin2@gmail.com**
 
