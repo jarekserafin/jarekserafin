@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jarosław</h1>
+<h1 align="center">Hello, I'm Jarosław 👋</h1>
 <h3 align="center">a QA enginner</h3>
 
 - 🌱 I’m currently learning playwritght with python
